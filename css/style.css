@@ -1,0 +1,134 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+.menu-container
+{
+	background-color:#333;
+	padding: 100px;
+	color:#fff;
+	text-align: center;
+	font-size: 24px;
+	height: 300px;
+	line-height: 50px;
+
+}
+.menu-container h1
+{
+	font-size: 40px;
+}
+.menu-container p
+{
+	padding: 15px;
+	font-size: 24px;
+}
+.menu-container a
+{
+	border:2px solid #00f;
+	color: #00f;
+	width: 20%;
+	margin: 25px;
+	/*border-spacing: 30px;*/
+	padding: 10px;
+	text-decoration: none;
+	
+	
+
+}
+.menu-container a:hover
+{
+	background-color: #00f;
+	color: #fff;
+	border-radius: 20px;
+}
+.submenu
+{
+	background-color: #fff;
+	text-align: center;
+	padding:50px;
+}
+.submenu h1
+{
+	font-size: 30px;
+}
+.submenu p
+{
+	font-size: 20px;
+	padding: 15px;
+}
+.box 
+{
+	background-color: #333;
+	display: flex;
+		 	
+}
+.col 
+{
+	
+	width: 30%;
+	margin: 60px;
+	padding: 20px;
+
+	
+}
+.row
+{
+	background-color: #fff;
+	padding: 10px;
+}
+.col img
+{
+	width: 100%;
+	height: auto;
+	
+}
+.col h3,p
+{
+	text-align: center;
+	padding: 5px;
+}
+.col p
+{
+	text-align: center;
+	font-size: 15px;
+}
+.footer
+{
+	display: flex;
+	
+}
+.foot1
+{
+	background-color: #0d6ef8;
+	text-align: center;
+	padding: 80px;
+
+}
+.foot1 h2
+{
+	font-size: 40px;
+}
+.foot1 p
+{
+
+	padding: 15px;
+	font-size: 24px;
+}
+
+.foot2
+{
+	background-color: #333;
+	text-align: center;
+	color:	#fff;
+	padding: 80px;
+}
+.foot2 h2
+{
+	font-size: 40px;
+}
+.foot2 p
+{
+	font-size: 20px;
+	padding: 15px;
+}
